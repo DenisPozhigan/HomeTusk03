@@ -1,0 +1,15 @@
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.csproj.AssemblyReference.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.AssemblyInfoInputs.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.AssemblyInfo.cs
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.csproj.CoreCompileInputs.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\bin\Debug\net8.0\Задача21.exe
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\bin\Debug\net8.0\Задача21.deps.json
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\bin\Debug\net8.0\Задача21.runtimeconfig.json
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\bin\Debug\net8.0\Задача21.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\bin\Debug\net8.0\Задача21.pdb
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\refint\Задача21.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.pdb
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\Задача21.genruntimeconfig.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача21\obj\Debug\net8.0\ref\Задача21.dll
