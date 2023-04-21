@@ -1,0 +1,15 @@
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\bin\Debug\net8.0\Задача23.exe
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\bin\Debug\net8.0\Задача23.deps.json
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\bin\Debug\net8.0\Задача23.runtimeconfig.json
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\bin\Debug\net8.0\Задача23.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\bin\Debug\net8.0\Задача23.pdb
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.csproj.AssemblyReference.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.AssemblyInfoInputs.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.AssemblyInfo.cs
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.csproj.CoreCompileInputs.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\refint\Задача23.dll
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.pdb
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\Задача23.genruntimeconfig.cache
+C:\Users\Sawer\Desktop\GB study\Howork\HomeTusk03\Задача23\obj\Debug\net8.0\ref\Задача23.dll
